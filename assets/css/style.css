@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 100%;
+  /*max-width: 960px;*/
+  margin: 0 auto;
+}
+.container {
+  padding-left: 71px;
+  padding-top: 386px; 
+}
+
+body{
+    background-repeat: no-repeat;
+    background-size: cover; /*para que cubra el espacio*/
+    height: 700px;
+    width: 100%;
+    z-index: 0;
+  }
+.cat {
+  background-repeat: no-repeat;
+  height: 16em;
+}
+
+
+
